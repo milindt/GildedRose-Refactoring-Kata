@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ba0b543-975f-4ff1-a319-835dd16435bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Ada/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ada/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ada/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ada/ThirtyDays.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ada/gilded_rose.adb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ada/gilded_rose.ads" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ada/gilded_rose_tester.adb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ada/gilded_rose_tests.adb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ada/gilded_rose_tests.ads" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ada/items.adb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ada/items.ads" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ada/program.adb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/GildedRose.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/GildedRose.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/GildedRoseTextTests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/GildedRoseUnitTests.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/run-once.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COBOL/mf/src/.cobolProj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COBOL/mf/src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COBOL/mf/src/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COBOL/mf/src/GildedRose.cbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COBOL/mf/test/.cobolProj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COBOL/mf/test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COBOL/mf/test/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COBOL/mf/test/TestGildedRose.cbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/Groovy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/Groovy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GildedRose-Refactoring-Kata.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/src/com/gildedrose/GildedRose.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/src/com/gildedrose/GildedRoseTest.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/src/com/gildedrose/Item.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groovy/src/com/gildedrose/TexttestFixture.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Spock/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Spock/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Spock/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Spock/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Spock/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Spock/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Spock/src/main/java/com/gildedrose/GildedRose.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Spock/src/main/java/com/gildedrose/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Spock/src/main/java/com/gildedrose/TexttestFixture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Spock/src/test/groovy/com/gildedrose/GildedRoseSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin/src/main/kotlin/com/gildedrose/GildedRose.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin/src/main/kotlin/com/gildedrose/Item.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin/src/test/kotlin/com/gildedrose/GildedRoseTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin/src/test/kotlin/com/gildedrose/TexttestFixture.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/R/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/R/gilded_rose.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/R/item.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/R/runit_gilded_rose.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/R/test_setup.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/R/texttest_fixture.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smalltalk/GildedRose.st" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TypeScript/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TypeScript/app/gilded-rose.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TypeScript/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TypeScript/test/gilded-rose.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TypeScript/test/golden-master-text-test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TypeScript/test/mocha.opts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TypeScript/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abap/YY_PAO_GILDED_ROSE.abap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c99/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c99/GildedRose.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c99/GildedRose.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c99/GildedRoseTextTests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c99/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c99/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c99/run-once-cmake.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c99/test_main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c99/test_rose.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c99/test_unity_gildedrose.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clisp/gilded-rose.lisp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/GildedRose.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/GildedRose.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/GildedRoseApprovalMain.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/GildedRoseApprovalTests.VerifyCombinations.approved.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/GildedRoseApprovalTests.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/GildedRoseTextTests.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/GildedRoseUnitTests.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/run-approval-once.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/run-once-cmake.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/run-once.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp/ApprovalTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp/GildedRose.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp/GildedRoseTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp/Item.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp/ThirtyDays.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp/csharp.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp/csharp.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp/packages.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpcore/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpcore/ApprovalTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpcore/GildedRose.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpcore/GildedRoseTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpcore/Item.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpcore/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpcore/ThirtyDays.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpcore/csharpcore.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/dub.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/src/GildedRose.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/src/GildedRoseTextTests.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/test/GildedRoseUnitTests.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dart/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dart/bin/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dart/lib/gilded_rose.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dart/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dart/test/gilded_rose_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elixir/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elixir/config/config.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elixir/lib/gilded_rose.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elixir/lib/item.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elixir/mix.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elixir/test/gilded_rose_test.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elixir/test/test_helper.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/erlang/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/erlang/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/erlang/include/gilded_rose.hrl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/erlang/rebar.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/erlang/rebar3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/erlang/src/gilded_rose.app.src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/erlang/src/gilded_rose.erl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/erlang/test/gilded_rose_tests.erl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharp/GildedRose.Tests/GildedRose.Tests.fsproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharp/GildedRose.Tests/GildedRoseTest.fs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharp/GildedRose.Tests/packages.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharp/GildedRose.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharp/GildedRose/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharp/GildedRose/GildedRose.fs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharp/GildedRose/GildedRose.fsproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/gilded-rose.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/gilded-rose_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/texttest_fixture.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/haskell/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/haskell/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/haskell/gilded-rose.cabal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/haskell/src/GildedRose.hs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/haskell/src/Main.hs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/haskell/stack.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/haskell/test/GildedRoseSpec.hs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/haskell/test/Spec.hs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-jasmine/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-jasmine/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-jasmine/spec/gilded_rose_spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-jasmine/spec/support/jasmine.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-jasmine/src/gilded_rose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-mocha/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-mocha/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-mocha/src/gilded_rose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-mocha/test/test_gilded_rose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pascal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pascal/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pascal/ROSE.PAS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pascal/ROSE_T.PAS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pascal/TEXTTEST.PAS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pascal/TPUNIT.PAS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/perl/GildedRose.pm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/perl/Item.pm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/perl/test.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/perl/texttest_fixture.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/perl6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/perl6/lib/GildedRose.pm6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/perl6/lib/Item.pm6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/perl6/test.p6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/perl6/texttest_fixture.p6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/.buildpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/.settings/com.piece_framework.makegood.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/.settings/org.eclipse.php.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/src/gilded_rose.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/src/texttest_fixture.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/test/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/test/gilded_rose_test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plsql/create_user_if_needed.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plsql/item.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plsql/item_with_id.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plsql/new_item.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plsql/texttest_fixture.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plsql/update_quality.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plsql/ut_update_quality.pkb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plsql/ut_update_quality.pks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plsql/ut_update_quality.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/gilded_rose.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/test_gilded_rose.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/texttest_fixture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/.buildpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/.loadpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/gilded_rose.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/gilded_rose_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/gilded_rose_tests.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/texttest_fixture.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/Cargo.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/src/gildedrose/mod.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/src/gildedrose/test.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rust/src/main.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/src/main/scala/com/gildedrose/GildedRose.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/src/main/scala/com/gildedrose/Item.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/src/test/scala/com/gildedrose/GildedRoseTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/src/test/scala/com/gildedrose/TexttestFixture.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheme/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheme/assert.scm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheme/gilded-rose-test.scm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheme/gilded-rose.scm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheme/texttest-fixture.scm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/Package.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/Sources/GildedRose.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/Sources/Item.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/Sources/main.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/Tests/GildedRoseTests/GildedRoseTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/Tests/LinuxMain.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swift/Tests/swiftTests/GildedRoseTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/texttests/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/texttests/ThirtyDays/._options.gr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/texttests/ThirtyDays/options.gr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/texttests/ThirtyDays/stderr.gr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/texttests/ThirtyDays/stdout.gr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/texttests/config.gr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/texttests/environment.gr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/texttests/testsuite.gr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xslt/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xslt/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xslt/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xslt/gilded_rose.dtd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xslt/texttest_fixture.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xslt/tst_update_quality.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xslt/update_quality.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xslt/xsltunit-0.2/xsltunit.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xslt/xsltunit-0.2/xsltunit_report.xsl" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-612654270">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java/src/main/java/com/gildedrose/GildedRose.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="57" />
+    <option name="y" value="24" />
+    <option name="width" value="1309" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GildedRose-Refactoring-Kata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GildedRose-Refactoring-Kata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GildedRose-Refactoring-Kata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GildedRose-Refactoring-Kata" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GildedRose-Refactoring-Kata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GildedRose-Refactoring-Kata" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GildedRose-Refactoring-Kata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GildedRose-Refactoring-Kata" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GildedRose-Refactoring-Kata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GildedRose-Refactoring-Kata" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="gildedrose" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ba0b543-975f-4ff1-a319-835dd16435bc" name="Default Changelist" comment="" />
+      <created>1548254855481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548254855481</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="57" y="24" width="1309" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24940617" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Java/src/main/java/com/gildedrose/GildedRose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GildedRose-Refactoring-Kata</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
